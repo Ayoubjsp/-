@@ -1,2 +1,5 @@
-# -
-git clone https://github.com/FLiFusjv1/FLx
+git clone https://github.com/Ayoub/FdjdK.py
+
+cd AyoubiK.py
+
+python Ayoub.py
